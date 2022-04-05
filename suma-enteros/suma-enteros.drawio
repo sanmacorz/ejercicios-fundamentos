@@ -1,1 +1,37 @@
-<mxfile host="Electron" modified="2022-04-04T14:42:48.529Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/17.2.4 Chrome/96.0.4664.174 Electron/16.1.0 Safari/537.36" etag="FsnAfdRLv7IW_1Ojm9w6" version="17.2.4" type="device"><diagram id="hyXTzDfZUhhmsDUPOdG6" name="Page-1">3VdRb5swEP41SNtDI8AhIY9Nmm6R1m5SVK3tmwcOuDUcMyaQ/vqZ2EAYScSkZJHykuDv7uzzd/fZYKBZVHzhOAkfwCfMsE2/MNCdYduToSt/S2CjAMdFCgg49RVkNcCSfhANmhrNqE/SlqMAYIImbdCDOCaeaGGYc8jbbitg7VUTHJAOsPQw66I/qS9ChbqO2eBfCQ3CamXL1JYIV84aSEPsQ74DobmBZhxAqKeomBFWclfxouLuD1jrxDiJRZ8Any7jt49N/BRS++nh/dmZ0NnNRM2yxizTG9bJik3FAPElIXoIXIQQQIzZvEGnHLLYJ+Uyphw1Pt8AEglaEnwjQmx0dXEmQEKhiJi2riAW2mi5cqxyKBc+uFcNpZBxjxzZoN6PwDwg4ogfqisiO5lARATfyDhOGBZ03c4D654Kar+Gdvmgmf+HKth7qjBiQjPTKsfodwaV4SbdcnYrHSw3KRqjfArK/2fDlgmZL9VsMjk1oTJ3Si1bNCkfJdGYMcIg4DhqlyoVHN5rKUjKpgnhVNJA+N+BPxrDNA+pIMsEb2uVy5Oi1TblxJh7VQuUs6qt3ZkDG9WZrgkXpDjeEt0S6gA0dlSIPoiskdZl3si6Fm+4I+nK7+RVr4646xUf6im+8SXFh84kvldp2UaZn6QOpy+f+6qwrYt9ytmpHv6VAssEuW3k0xbTcK9ozyAou6+gavD0itp3kF6VopyeirIvqSinU4XF42K2+N69bzp9uXvT6MsoKoLyzXKwYpB7IeZiIK+UiMZYwKGbZX8BTtrt40vfHqMOyfeLx2tieOhemmLLuvbjZNzzOBld8jgZd6rweqo+98HLIsmafaDNm7dQ5/80PZqcr+nlsPna3Np2PtnR/A8=</diagram></mxfile>
+<mxfile host="65bd71144e">
+    <diagram id="hyXTzDfZUhhmsDUPOdG6" name="Page-1">
+        <mxGraphModel dx="1074" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="diSnjzynUhi2UMkX59iC-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="diSnjzynUhi2UMkX59iC-2" target="diSnjzynUhi2UMkX59iC-3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="diSnjzynUhi2UMkX59iC-2" value="&lt;font style=&quot;font-size: 18px&quot;&gt;X, Y&lt;/font&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" parent="1" vertex="1">
+                    <mxGeometry x="375" y="160" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="diSnjzynUhi2UMkX59iC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="diSnjzynUhi2UMkX59iC-3" target="diSnjzynUhi2UMkX59iC-7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="diSnjzynUhi2UMkX59iC-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Z = (X+Y)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+                    <mxGeometry x="375" y="260" width="100" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="diSnjzynUhi2UMkX59iC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="diSnjzynUhi2UMkX59iC-5" target="diSnjzynUhi2UMkX59iC-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="diSnjzynUhi2UMkX59iC-5" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="375" y="70" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="diSnjzynUhi2UMkX59iC-6" value="FIN" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="375" y="480" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="diSnjzynUhi2UMkX59iC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" parent="1" source="diSnjzynUhi2UMkX59iC-7" target="diSnjzynUhi2UMkX59iC-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="diSnjzynUhi2UMkX59iC-7" value="Z" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fontSize=18;" parent="1" vertex="1">
+                    <mxGeometry x="375" y="390" width="100" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
