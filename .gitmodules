@@ -1,7 +1,19 @@
 [submodule "taller_1-sanmacorz"]
 	path = taller_1-sanmacorz
         url = https://github.com/uis-socorro/taller_1-sanmacorz
+        branch = master
 
 [submodule "taller_2-sanmacorz"]
         path = taller_2-sanmacorz
         url = https://github.com/sanmacorz/taller_2-sanmacorz
+        branch = master
+
+[submodule "quiz_instrucciones_decision-sanmacorz"]
+        path = quiz_instrucciones_decision-sanmacorz
+        url = https://github.com/uis-socorro/quiz_instrucciones_decision-sanmacorz
+        branch = main
+
+[submodule "calculadora_menu-sanmacorz"]
+	path = calculadora_menu-sanmacorz
+	url = https://github.com/uis-socorro/calculadora_menu-sanmacorz
+        branch = main
