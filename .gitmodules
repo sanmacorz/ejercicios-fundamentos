@@ -17,3 +17,8 @@
 	path = calculadora_menu-sanmacorz
 	url = https://github.com/uis-socorro/calculadora_menu-sanmacorz
         branch = main
+
+[submodule "parcial1_fund-sanmacorz"]
+	path = parcial1_fund-sanmacorz
+        url = https://github.com/uis-socorro/parcial1_fund-sanmacorz
+        branch = main
