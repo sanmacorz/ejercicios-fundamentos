@@ -22,3 +22,9 @@
 	path = parcial1_fund-sanmacorz
         url = https://github.com/uis-socorro/parcial1_fund-sanmacorz
         branch = main
+[submodule "quiz1_while-sanmacorz"]
+	path = quiz1_while-sanmacorz
+	url = https://github.com/uis-socorro/quiz1_while-sanmacorz
+[submodule "taller_1-clase"]
+	path = taller_1-clase
+	url = https://github.com/sanmacorz/taller_1-clase/
