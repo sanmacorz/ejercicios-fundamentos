@@ -9,6 +9,10 @@ def es_palindromo(palabra):
         return False
 
 
+# Otra forma de hacerlo, revirtiendo la lista y comparando la lista revertida con la normal
+# for i in reversed(palabra):
+#    print(i)
+
 palabra = str(input("Ingrese una palabra que desee: "))
 
 if es_palindromo(palabra) == True:
